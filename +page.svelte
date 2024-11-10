@@ -2,7 +2,8 @@
 
 /*
   ----------------------------------------------------------------------
-  Michael Nia - Dev Log
+  Michael R. Martin - Dev Log
+  Info update: 11/10/2024
   Updated: 3/3/2024
   SightEngine Image Filter Implementation for Upload-pfp
   Michael worked on the image filter: 
